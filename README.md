@@ -7,19 +7,24 @@
   <br>
 
 ## Theme Screenshot
+<br />
 
-PHP
+**PHP**
+<br />
 
 ![Screenshot - Theme](/images/code-php.png)
 
-Vue.js
+**Vue.js**
+<br />
 
 ![Screenshot - Theme](/images/code-vue.png)
 
-Markdown
+**Markdown**
+<br />
 ![Screenshot - Theme](/images/code-md.png)
 
-Typescript
+**Typescript**
+<br />
 ![Screenshot - Theme](/images/code-ts.png)
 
 This extension for Visual Studio Code adds themes titled "Md Abdur Rakib Theme". There are dark, dark with no italics, and light themes.
@@ -33,25 +38,31 @@ The themes also support an italicized version, with fonts that supports cursive 
 ## Dark Blue Theme
 
 **Dark Blue HTML**
+<br />
 ![HTML](images/dark-blue-html.png)
 
 **Dark Blue JavaScript**
+<br />
 ![JavaScript](images/dark-blue-js.png)
 
 **Dark Blue TypeScript**
+<br />
 ![TypeScript](images/dark-blue-ts.png)
 
 **Dark Blue SCSS**
+<br />
 ![SCSS](images/dark-blue-scss.png)
 
 ## Dark Black Theme
 
 **Dark Black JavaScript**
+<br />
 ![Dark Black Theme](images/dark-js.png)
 
 ## Light Theme
 
 **Light JavaScript**
+<br />
 ![Light Theme](images/light-js.png)
 
 ## Recommended Settings
