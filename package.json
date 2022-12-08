@@ -1,0 +1,308 @@
+{
+  "name": "md-abdur-rakib-theme",
+  "displayName": "Md Abdur Rakib Theme",
+  "description": "Md Abdur Rakib Theme",
+  "version": "1.1.2",
+  "publisher": "tscmdabdurrakib",
+  "icon": "profile.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tscmdabdurrakib/Md-Abdur-Rakib-vs-code-Dark-theme.git"
+  },
+  "galleryBanner": {
+    "color": "#373436",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "keywords": [
+    "Md Abdur Rakib Theme",
+    "Md Abdur Rakib Dark Theme",
+    "Md Abdur Rakib Light Theme",
+    "Md Abdur Rakib Different Style Theme",
+    "Md Abdur Rakib Red Theme",
+    "Md Abdur Rakib Blue Theme",
+    "Md Abdur Rakib White Theme",
+    "Md Abdur Rakib GitHub Theme",
+    "Md Abdur Rakib Vue Js Theme",
+    "Md Abdur Rakib React Js Theme",
+    "Md Abdur Rakib Node Js Theme",
+    "Md Abdur Rakib Express Js Theme",
+    "Md Abdur Rakib NodePad++ Theme",
+    "Md Abdur Rakib Hacker Theme",
+    "Md Abdur Rakib Atom Theme",
+    "Md Abdur Rakib Brackets Theme",
+    "Md Abdur Rakib CodeBlock Theme",
+    "Md Abdur Rakib PhpStorm Theme",
+    "Md Abdur Rakib Pycharm Theme",
+    "Md Abdur Rakib SubLime Theme",
+    "Md Abdur Rakib Darcula Theme",
+    "Md Abdur Rakib Green Theme"
+  ],
+  "categories": [
+    "Themes",
+    "Md Abdur Rakib Theme",
+    "Md Abdur Rakib Dark Theme",
+    "Md Abdur Rakib Light Theme",
+    "Md Abdur Rakib Different Style Theme",
+    "Md Abdur Rakib Red Theme",
+    "Md Abdur Rakib Blue Theme",
+    "Md Abdur Rakib White Theme",
+    "Md Abdur Rakib GitHub Theme",
+    "Md Abdur Rakib Vue Js Theme",
+    "Md Abdur Rakib React Js Theme",
+    "Md Abdur Rakib Node Js Theme",
+    "Md Abdur Rakib Express Js Theme",
+    "Md Abdur Rakib NodePad++ Theme",
+    "Md Abdur Rakib Hacker Theme",
+    "Md Abdur Rakib Atom Theme",
+    "Md Abdur Rakib Brackets Theme",
+    "Md Abdur Rakib CodeBlock Theme",
+    "Md Abdur Rakib PhpStorm Theme",
+    "Md Abdur Rakib Pycharm Theme",
+    "Md Abdur Rakib SubLime Theme",
+    "Md Abdur Rakib Green Theme",
+    "Md Abdur Rakib Darcula Theme",
+    "Other"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Md Abdur Rakib Dark (Primary - Style)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledarkprimary.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Primary - Style)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelightprimary.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 1)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark1.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 2)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark2.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 3)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark3.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 4)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark4.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 5)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark5.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark Vue (Style - 6)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark6.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark Vue (Style - 7)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark7.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark Pycharm (Style - 8)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark8.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 9)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight9.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 10)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight10.json"
+      },
+      {
+        "label": "Md Abdur Rakib Pycharm Light (Style - 11)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight11.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 12)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark12.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 13)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark13.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 14)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark14.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 15)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark15.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 16)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark16.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 17)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark17.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 18)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark18.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 19)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark19.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 20)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark20.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 21)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark21.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 22)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark22.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 23)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark23.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 24)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark24.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 25)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark25.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 26)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark26.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 27)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark27.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 28)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark28.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 29)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark29.json"
+      },
+      {
+        "label": "Md Abdur Rakib Dark (Style - 30)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/styledark30.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 31)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight31.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 32)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight32.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 33)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight33.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 34)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight34.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 35)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight35.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 36)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight36.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 37)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight37.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 38)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight38.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 39)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight39.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 40)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight40.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 41)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight41.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 42)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight42.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 43)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight43.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 44)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight44.json"
+      },
+      {
+        "label": "Md Abdur Rakib Light (Style - 45)",
+        "uiTheme": "vs",
+        "path": "./themes/stylelight45.json"
+      }
+    ]
+  }
+}
