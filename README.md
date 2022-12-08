@@ -212,6 +212,12 @@ Be nice.
 
 ## Authors
 
+<br/>
+
+<h3>Theme is a Official VS Code theme of Developer Md Abdur Rakib is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer.</h3>
+
+<br />
+
 Authored by [Md Abdur Rakib](https://mdabdurrakib.com/) <br />
 Facebook : [Md Abdur Rakib](https://facebook.com/tscmdabdurrakib/) <br/>
 Github : [Md Abdur Rakib](https://github.com/tscmdabdurrakib/) <br/>

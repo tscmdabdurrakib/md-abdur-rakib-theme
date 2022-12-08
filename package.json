@@ -1,13 +1,13 @@
 {
   "name": "md-abdur-rakib-theme",
   "displayName": "Md Abdur Rakib Theme",
-  "description": "Md Abdur Rakib Theme",
-  "version": "1.1.2",
+  "description": "Md Abdur Rakib Theme is a Official VS Code theme of Developer Md Abdur Rakib is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer.",
+  "version": "1.1.3",
   "publisher": "tscmdabdurrakib",
-  "icon": "profile.jpg",
+  "icon": "profile.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tscmdabdurrakib/Md-Abdur-Rakib-vs-code-Dark-theme.git"
+    "url": "https://github.com/tscmdabdurrakib/md-abdur-rakib-theme.git"
   },
   "galleryBanner": {
     "color": "#373436",
@@ -42,28 +42,6 @@
   ],
   "categories": [
     "Themes",
-    "Md Abdur Rakib Theme",
-    "Md Abdur Rakib Dark Theme",
-    "Md Abdur Rakib Light Theme",
-    "Md Abdur Rakib Different Style Theme",
-    "Md Abdur Rakib Red Theme",
-    "Md Abdur Rakib Blue Theme",
-    "Md Abdur Rakib White Theme",
-    "Md Abdur Rakib GitHub Theme",
-    "Md Abdur Rakib Vue Js Theme",
-    "Md Abdur Rakib React Js Theme",
-    "Md Abdur Rakib Node Js Theme",
-    "Md Abdur Rakib Express Js Theme",
-    "Md Abdur Rakib NodePad++ Theme",
-    "Md Abdur Rakib Hacker Theme",
-    "Md Abdur Rakib Atom Theme",
-    "Md Abdur Rakib Brackets Theme",
-    "Md Abdur Rakib CodeBlock Theme",
-    "Md Abdur Rakib PhpStorm Theme",
-    "Md Abdur Rakib Pycharm Theme",
-    "Md Abdur Rakib SubLime Theme",
-    "Md Abdur Rakib Green Theme",
-    "Md Abdur Rakib Darcula Theme",
     "Other"
   ],
   "contributes": {
