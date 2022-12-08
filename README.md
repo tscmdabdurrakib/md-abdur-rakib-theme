@@ -1,4 +1,5 @@
-# Md Abdur Rakib Theme
+# Md Abdur Rakib Theme <br />
+<p>Theme is a Official VS Code theme of Developer Md Abdur Rakib is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer.</p>
 
 <h1 align="center">
   <br>
@@ -6,8 +7,7 @@
   <br><br>
   <br>
 
-## Theme Screenshot
-<br />
+## Theme Screenshot <br />
 
 **PHP**
 <br />
@@ -21,10 +21,12 @@
 
 **Markdown**
 <br />
+
 ![Screenshot - Theme](/images/code-md.png)
 
 **Typescript**
 <br />
+
 ![Screenshot - Theme](/images/code-ts.png)
 
 This extension for Visual Studio Code adds themes titled "Md Abdur Rakib Theme". There are dark, dark with no italics, and light themes.
@@ -39,30 +41,36 @@ The themes also support an italicized version, with fonts that supports cursive 
 
 **Dark Blue HTML**
 <br />
+
 ![HTML](images/dark-blue-html.png)
 
 **Dark Blue JavaScript**
 <br />
+
 ![JavaScript](images/dark-blue-js.png)
 
 **Dark Blue TypeScript**
 <br />
+
 ![TypeScript](images/dark-blue-ts.png)
 
 **Dark Blue SCSS**
 <br />
+
 ![SCSS](images/dark-blue-scss.png)
 
 ## Dark Black Theme
 
 **Dark Black JavaScript**
 <br />
+
 ![Dark Black Theme](images/dark-js.png)
 
 ## Light Theme
 
 **Light JavaScript**
 <br />
+
 ![Light Theme](images/light-js.png)
 
 ## Recommended Settings
@@ -223,7 +231,6 @@ Be nice.
 
 ## Authors
 
-<br/>
 
 <h4>Theme is a Official VS Code theme of Developer Md Abdur Rakib is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer.</h4>
 
