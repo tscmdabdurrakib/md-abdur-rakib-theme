@@ -29,39 +29,28 @@
 
 ![Screenshot - Theme](/images/code-ts.png)
 
-This extension for Visual Studio Code adds themes titled "Md Abdur Rakib Theme". There are dark, dark with no italics, and light themes.
-
-> I personally use the dark themes for most occasions, but find the light theme good on some dimmer projectors when I present.
-
-See the [CHANGELOG](CHANGELOG.md) for the latest changes.
-
-The themes also support an italicized version, with fonts that supports cursive italicized fonts.
-
-## Dark Blue Theme
-
-**Dark Blue HTML**
+**HTML**
 <br />
 
 ![HTML](images/dark-blue-html.png)
 
-**Dark Blue JavaScript**
+**JavaScript**
 <br />
 
 ![JavaScript](images/dark-blue-js.png)
 
-**Dark Blue TypeScript**
+**TypeScript**
 <br />
 
 ![TypeScript](images/dark-blue-ts.png)
 
-**Dark Blue SCSS**
+**SCSS**
 <br />
 
 ![SCSS](images/dark-blue-scss.png)
 
-## Dark Black Theme
 
-**Dark Black JavaScript**
+**JavaScript**
 <br />
 
 ![Dark Black Theme](images/dark-js.png)
@@ -74,6 +63,14 @@ The themes also support an italicized version, with fonts that supports cursive 
 ![Light Theme](images/light-js.png)
 
 ## Recommended Settings
+
+This extension for Visual Studio Code adds themes titled "Md Abdur Rakib Theme". There are dark, dark with no italics, and light themes.
+
+> I personally use the dark themes for most occasions, but find the light theme good on some dimmer projectors when I present.
+
+See the [CHANGELOG](CHANGELOG.md) for the latest changes.
+
+The themes also support an italicized version, with fonts that supports cursive italicized fonts.
 
 ## Installation
 
