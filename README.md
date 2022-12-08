@@ -212,8 +212,8 @@ Be nice.
 
 ## Authors
 
-Authored by [Md Abdur Rakib](https://mdabdurrakib.com/)
-Facebook : [Md Abdur Rakib](https://facebook.com/tscmdabdurrakib/)
-Github : [Md Abdur Rakib](https://github.com/tscmdabdurrakib/)
-Instagram : [Md Abdur Rakib](https://instagram.com/tscmdabdurrakib/)
+Authored by [Md Abdur Rakib](https://mdabdurrakib.com/) <br />
+Facebook : [Md Abdur Rakib](https://facebook.com/tscmdabdurrakib/) <br/>
+Github : [Md Abdur Rakib](https://github.com/tscmdabdurrakib/) <br/>
+Instagram : [Md Abdur Rakib](https://instagram.com/tscmdabdurrakib/)<br/>
 Linkedin : [Md Abdur Rakib](https://linkedin.com/in/tscmdabdurrakib/)
